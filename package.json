@@ -1,0 +1,15 @@
+{
+  "name": "cctype",
+  "version": "1.0.3",
+  "description": "\"C++ Ctype.h functions\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "module"
+  ],
+  "author": "Dara Singh",
+  "license": "ISC"
+}
