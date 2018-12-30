@@ -10,5 +10,6 @@ Following are the functions
 7. isLower- Checks whether the character is in Lowercase or not.
 8. isNum- Checks whether the string is a number or not.
 9. isAlNum- Checks whether the string is an alphanumeric or not.
-10. isStr- Checks whether the string contains on alphabets or not.
-**It returns true if the function is true and false if the function is false**
+10. isStr- Checks whether the string contains on alphabets or not.  
+**It returns true if the function is true and false if the function is false.**  
+https://www.npmjs.com/package/cctype
